@@ -226,7 +226,7 @@
 				font-size: 1.5em;
 				margin: 1em 0 2em 0;
 				line-height: 1.5em;
-				text-align: inherit;
+				text-align: left;
 			}
 
 		footer
@@ -960,7 +960,7 @@
 		{
 			margin-bottom: 0;
 		}
-		#banner header 
+		#banner header
 		{
 			text-align: center;
 		}
@@ -1228,20 +1228,20 @@
 			{
 				text-align: center;
 			}
-			.rTop{ width:4.5em; 
-				   height:4.5em; 
-				   text-align:center; 
-				   font-size:1.25em; 
-				   line-height:4.5em; 
-				   position:fixed; 
-				   right:0; 
+			.rTop{ width:4.5em;
+				   height:4.5em;
+				   text-align:center;
+				   font-size:1.25em;
+				   line-height:4.5em;
+				   position:fixed;
+				   right:0;
 				   bottom:0;
-				   margin:5px; cursor:pointer; 
+				   margin:5px; cursor:pointer;
 				   display:inline-block;
 				   border-radius: 100%;
 				   padding: 0;
 				   background: #df7366;
 				   color: #ffffff;
-				   
+
 				}
 
